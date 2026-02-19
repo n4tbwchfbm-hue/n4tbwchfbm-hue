@@ -42,15 +42,15 @@ const mats = {
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=DEIN-USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=n4tbwchfbm-hue&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEIN-USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n4tbwchfbm-hue&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="GitHub Streak" width="48%" />
 
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4tbwchfbm-hue&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages" width="48%" />
 
 </div>
 
@@ -60,7 +60,7 @@ const mats = {
 
 <div align="center">
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=DEIN-USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=n4tbwchfbm-hue&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
@@ -77,23 +77,11 @@ const mats = {
 
 ---
 
-## 🔥 Featured Projects
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=DEIN-USERNAME&repo=PROJEKT-NAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)](https://github.com/DEIN-USERNAME/PROJEKT-NAME)
-
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=DEIN-USERNAME&repo=PROJEKT-NAME-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)](https://github.com/DEIN-USERNAME/PROJEKT-NAME-2)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
 
-[![Mats' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DEIN-USERNAME&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF)](https://github.com/DEIN-USERNAME)
+[![Mats' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=n4tbwchfbm-hue&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF)](https://github.com/n4tbwchfbm-hue)
 
 </div>
 
@@ -109,24 +97,11 @@ const mats = {
 
 ---
 
-## 🎵 Spotify Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/DEINE-SPOTIFY-ID)
-
-</div>
-
----
-
 ## 📫 Connect with me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEIN-USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DEIN-PROFIL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DEIN-HANDLE)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/DEIN-HANDLE)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/n4tbwchfbm-hue)
 
 </div>
 
@@ -136,7 +111,7 @@ const mats = {
 
 <div align="center">
 
-![Snake animation](https://github.com/DEIN-USERNAME/DEIN-USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/n4tbwchfbm-hue/n4tbwchfbm-hue/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -146,7 +121,7 @@ const mats = {
 
 ### 💙 Vielen Dank für deinen Besuch!
 
-![Visitor Count](https://profile-counter.glitch.me/DEIN-USERNAME/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/n4tbwchfbm-hue/count.svg)
 
 **⭐ Wenn dir meine Projekte gefallen, gib ihnen einen Stern!**
 
